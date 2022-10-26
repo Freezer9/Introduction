@@ -5,25 +5,25 @@
   </a>
 </h1>
 
-<h3 align="center">A young-dumb 🤓 full stack developer from India 🇮🇳</h3>
+<h3 align="center">A guy from the unknown that loves to do anything</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-24&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-24" /> </p>
 
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
-<p><i> I'm Aniket a 3rd year Information Technology Undergraduate from Guru Gobind Singh Indraprastha University, Delhi. I'm a Tech Enthusiast, full stack Web Developer and an Open Source Contributor. I love to explore and learn about new domains.</i></p>
+<p><i> I'm Faris a 1st year Informatics Engineering Undergraduate from Electronic Engineering Polytechnic Institute of Surabaya, Indonesia. I'm just a Tech Enthusiast that loves a new technology and everything that interesting. And also i love to explore and learn about new domains.</i></p>
 
-- 🌱 I’m currently learning **<code>Data Structures</code>, <code>Full Stack Web Development</code>**
+- 🌱 I’m currently learning **<code>Data Science</code>, <code>Web Development<code>, <code>Cyber Security<code>, <code>Game Development</code>**
 
-- 💬 Ask me about **<code>C++</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>React</code>**
+- 💬 Ask me about **<code>C</code>, <code>C++</code>, <code>Python</code>, <code>HTML</code>, <code>CSS</code>** 
 
-- 📫 How to reach me **<code><a href="https://www.linkedin.com/in/aniket-24/">LinkedIn</a></code>** **<code>[Gmail](mailto:aniketskr@gmail.com)</code>**
+- 📫 How to reach me **<code><a href="https://www.linkedin.com/in/faris-abdullah-170968248/">LinkedIn</a></code>** **<code>[Gmail](mailto:farismuhammadabd@gmail.com)</code>**
 
-- 👨‍💻 Check out my projects **<code>[here!](https://github.com/aniket-24?tab=repositories)</code>**
+- 👨‍💻 Check out my projects **<code>[here!](https://github.com/Freezer9?tab=repositories)</code>**
 
 - 😄 Pronouns **<code>He/Him</code>**
 
-- ⚡ Fun fact **<code>I think I am funny</code>**
+- ⚡ Fun fact **<code>I think im cool and funny :)</code>**
 
 <hr>
 <h3 align="center">Connect with me:</h3>
