@@ -13,7 +13,7 @@
 
 <p><i> I'm Faris a 1st year Informatics Engineering Undergraduate from Electronic Engineering Polytechnic Institute of Surabaya, Indonesia. I'm just a Tech Enthusiast that loves a new technology and everything that interesting. And also i love to explore and learn about new domains.</i></p>
 
-- 🌱 I’m currently learning **<code>Data Science</code>, <code>Web Development<code>, <code>Cyber Security<code>, <code>Game Development</code>**
+- 🌱 I’m currently learning **<code>Data Science</code>, <code>Web Development</code>, <code>Cyber Security</code>, <code>Game Development</code>**
 
 - 💬 Ask me about **<code>C</code>, <code>C++</code>, <code>Python</code>, <code>HTML</code>, <code>CSS</code>** 
 
